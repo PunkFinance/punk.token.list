@@ -1,0 +1,17 @@
+{
+  "name": "punk.token.list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "validate": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "6.12.5",
+    "axios": "^0.21.1"
+  },
+  "type": "module"
+}
