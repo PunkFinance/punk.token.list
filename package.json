@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "validate": "node index.js"
+    "validate": "node --experimental-json-modules index.js"
   },
   "keywords": [],
   "author": "",
