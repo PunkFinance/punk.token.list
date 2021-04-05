@@ -49,7 +49,7 @@
       },
       {
         "chainId": 3,
-        "address": "0xc2118d4d90b274016cB7a54c03EF52E6c537D957",
+        "address": "0x31F42841c2db5173425b5223809CF3A38FEde360",
         "name": "Dai Stablecoin",
         "symbol": "DAI",
         "decimals": 18,
@@ -57,7 +57,7 @@
       },
       {
         "chainId": 3,
-        "address": "0x516de3a7A567d81737e3a46ec4FF9cFD1fcb0136",
+        "address": "0x110a13fc3efe6a245b50102d2d79b3e76125ae83",
         "name": "Tether USD",
         "symbol": "USDT",
         "decimals": 6,
@@ -65,22 +65,7 @@
       },
       {
         "chainId": 3,
-        "address": "0x443Fd8D5766169416aE42B8E050fE9422f628419",
-        "name": "Basic Attention Token",
-        "symbol": "BAT",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/PunkFinance/punk.token.list/master/assets/token_bat.svg"
-      },
-      {
-        "chainId": 3,
-        "address": "0xBde8bB00A7eF67007A96945B3a3621177B615C44",
-        "name": "Wrapped BTC",
-        "symbol": "WBTC",
-        "decimals": 8
-      },
-      {
-        "chainId": 3,
-        "address": "0x0D9C8723B343A8368BebE0B5E89273fF8D712e3C",
+        "address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
         "name": "USD Coin USDC",
         "symbol": "USDC",
         "decimals": 6,
