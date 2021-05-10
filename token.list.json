@@ -26,21 +26,6 @@
       },
       {
         "chainId": 1,
-        "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
-        "name": "Basic Attention Token",
-        "symbol": "BAT",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/PunkFinance/punk.token.list/master/assets/token_bat.svg"
-      },
-      {
-        "chainId": 1,
-        "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-        "name": "Wrapped BTC",
-        "symbol": "WBTC",
-        "decimals": 8
-      },
-      {
-        "chainId": 1,
         "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
         "name": "USD Coin USDC",
         "symbol": "USDC",
@@ -89,21 +74,6 @@
       },
       {
         "chainId": 42,
-        "address": "0x482dC9bB08111CB875109B075A40881E48aE02Cd",
-        "name": "Basic Attention Token",
-        "symbol": "BAT",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/PunkFinance/punk.token.list/master/assets/token_bat.svg"
-      },
-      {
-        "chainId": 42,
-        "address": "0xd3A691C852CDB01E281545A27064741F0B7f6825",
-        "name": "Wrapped BTC",
-        "symbol": "WBTC",
-        "decimals": 8
-      },
-      {
-        "chainId": 42,
         "address": "0xb7a4F3E9097C08dA09517b5aB877F7a917224ede",
         "name": "USD Coin USDC",
         "symbol": "USDC",
@@ -114,6 +84,6 @@
     "version": {
       "major": 0,
       "minor": 1,
-      "patch": 0
+      "patch": 1
     }
   }

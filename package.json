@@ -4,14 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "validate": "node --experimental-json-modules index.js"
+    "validate": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "ajv": "6.12.5",
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "consola": "^2.15.3"
   },
   "type": "module"
 }
